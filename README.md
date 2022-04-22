@@ -3,6 +3,8 @@
 ![Awesome](https://awesome.re/badge.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shenggan/awesome-distributed-ml/pulls)
 
+A curated list of awesome projects and papers for distributed training or inference **especially for large model**.
+
 ## Contents
 - [Awesome Distributed Machine Learning System](#awesome-distributed-machine-learning-system)
   - [Contents](#contents)
