@@ -14,7 +14,7 @@ A curated list of awesome projects and papers for distributed training or infere
     - [Pipeline Parallelism](#pipeline-parallelism)
     - [Hybrid Parallelism & Framework](#hybrid-parallelism--framework)
     - [Heterogeneous Memory](#heterogeneous-memory)
-    - [Automatic Partitioning](#automatic-partitioning)
+    - [Auto Parallelization](#auto-parallelization)
     - [Mixture-of-Experts](#mixture-of-experts)
     - [Communication Optimization](#communication-optimization)
     - [Applications on Supercomputer](#applications-on-supercomputer)
@@ -78,6 +78,7 @@ A curated list of awesome projects and papers for distributed training or infere
 
 - [Blink: Fast and Generic Collectives for Distributed ML](https://proceedings.mlsys.org/paper/2020/hash/43ec517d68b6edd3015b3edc9a11367b-Abstract.html) by Guanhua Wang et al., MLSys 2020
 - [GC3: An Optimizing Compiler for GPU Collective Communication](https://arxiv.org/abs/2201.11840) by Meghan Cowan et al., arxiv 2022
+- [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) by Abhinav Jangda et al., ASPLOS 2022
 
 ### Applications on Supercomputer
 
