@@ -51,6 +51,8 @@ A curated list of awesome projects and papers for distributed training or infere
 
 - [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://openreview.net/forum?id=qrwe7XHTmYb) by Dmitry Lepikhin et al., ICLR 2021
 - [FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models](https://dl.acm.org/doi/abs/10.1145/3503221.3508418) by Jiaao He et al., PPoPP 2022
+- [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) by Samyam Rajbhandari et al., ICML 2022
+- [Tutel: Adaptive Mixture-of-Experts at Scale](https://arxiv.org/abs/2206.03382) by Changho Hwang et al., arxiv 2022
 
 ### Hybrid Parallelism & Framework
 
