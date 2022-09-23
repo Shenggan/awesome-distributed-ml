@@ -17,7 +17,7 @@ A curated list of awesome projects and papers for distributed training or infere
     - [Heterogeneous Memory](#heterogeneous-memory)
     - [Auto Parallelization](#auto-parallelization)
     - [Communication Optimization](#communication-optimization)
-    - [Applications on Supercomputer](#applications-on-supercomputer)
+    - [Applications](#applications)
   - [Contribute](#contribute)
 
 ## Open Source Projects
@@ -84,9 +84,10 @@ A curated list of awesome projects and papers for distributed training or infere
 - [GC3: An Optimizing Compiler for GPU Collective Communication](https://arxiv.org/abs/2201.11840) by Meghan Cowan et al., arxiv 2022
 - [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) by Abhinav Jangda et al., ASPLOS 2022
 
-### Applications on Supercomputer
+### Applications
 
 - [BaGuaLu: targeting brain scale pretrained models with over 37 million cores](https://dl.acm.org/doi/abs/10.1145/3503221.3508417) by Zixuan Ma et al., PPoPP 2022
+- [NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism](https://dl.acm.org/doi/abs/10.1145/3503222.3507735) by Shixiong Zhao et al., ASPLOS 2022
 
 ## Contribute
 
