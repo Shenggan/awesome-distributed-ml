@@ -66,9 +66,17 @@ A curated list of awesome projects and papers for distributed training or infere
 
 ### Memory Efficient Training
 
+- [Training deep nets with sublinear memory cost](https://arxiv.org/abs/1604.06174) by Tianqi Chen et al., arxiv 2016
+- [Capuchin: Tensor-based GPU Memory Management for Deep Learning](https://dl.acm.org/doi/10.1145/3373376.3378505) by Xuan Peng et al., ASPLOS 2020
+- [SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping](https://dl.acm.org/doi/10.1145/3373376.3378530) by Chien-Chin Huang et al., ASPLOS 2020
+- [Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization](https://proceedings.mlsys.org/paper/2020/hash/084b6fbb10729ed4da8c3d3f5a3ae7c9-Abstract.html) by Paras Jain et al., MLSys 2020
+- [Dynamic Tensor Rematerialization](https://arxiv.org/abs/2006.09616) by Marisa Kirisame et al., ICLR 2021
+- [ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training](https://proceedings.mlr.press/v139/chen21z.html) by Jianfei Chen et al., ICML 2021
 - [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) by Jie Ren et al., ATC 2021
 - [ZeRO-infinity: breaking the GPU memory wall for extreme scale deep learning](https://dl.acm.org/doi/abs/10.1145/3458817.3476205) by Samyam Rajbhandari et al., SC 2021
 - [PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management](https://arxiv.org/abs/2108.05818) by Jiarui Fang et al., arxiv 2021
+- [GACT: Activation Compressed Training for Generic Network Architectures](https://proceedings.mlr.press/v162/liu22v.html) by Xiaoxuan Liu et al., ICML 2022
+- [MegTaiChi: dynamic tensor-based memory management optimization for DNN training](https://dl.acm.org/doi/10.1145/3524059.3532394) by Zhongzhe Hu et al., ICS 2022
 
 ### Auto Parallelization
 
