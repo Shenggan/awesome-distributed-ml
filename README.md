@@ -14,9 +14,10 @@ A curated list of awesome projects and papers for distributed training or infere
     - [Pipeline Parallelism](#pipeline-parallelism)
     - [Mixture-of-Experts Parallelism](#mixture-of-experts-parallelism)
     - [Hybrid Parallelism & Framework](#hybrid-parallelism--framework)
-    - [Heterogeneous Memory](#heterogeneous-memory)
+    - [Memory Efficient Training](#memory-efficient-training)
     - [Auto Parallelization](#auto-parallelization)
     - [Communication Optimization](#communication-optimization)
+    - [Inference](#inference)
     - [Applications](#applications)
   - [Contribute](#contribute)
 
@@ -63,7 +64,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [OneFlow: Redesign the Distributed Deep Learning Framework from Scratch](https://arxiv.org/abs/2110.15032) by Jinhui Yuan et al., arxiv 2021
 - [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) by Zhengda Bian., arxiv 2021
 
-### Heterogeneous Memory
+### Memory Efficient Training
 
 - [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie) by Jie Ren et al., ATC 2021
 - [ZeRO-infinity: breaking the GPU memory wall for extreme scale deep learning](https://dl.acm.org/doi/abs/10.1145/3458817.3476205) by Samyam Rajbhandari et al., SC 2021
@@ -84,6 +85,11 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Blink: Fast and Generic Collectives for Distributed ML](https://proceedings.mlsys.org/paper/2020/hash/43ec517d68b6edd3015b3edc9a11367b-Abstract.html) by Guanhua Wang et al., MLSys 2020
 - [GC3: An Optimizing Compiler for GPU Collective Communication](https://arxiv.org/abs/2201.11840) by Meghan Cowan et al., arxiv 2022
 - [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) by Abhinav Jangda et al., ASPLOS 2022
+
+### Inference
+
+- [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) by Reza Yazdani Aminabadi et al., arxiv 2022
+- [EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models](https://arxiv.org/abs/2209.02341) by Jiangsu Du et al., arxiv 2022
 
 ### Applications
 
