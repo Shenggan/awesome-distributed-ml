@@ -99,6 +99,7 @@ A curated list of awesome projects and papers for distributed training or infere
 
 - [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) by Reza Yazdani Aminabadi et al., arxiv 2022
 - [EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models](https://arxiv.org/abs/2209.02341) by Jiangsu Du et al., arxiv 2022
+- [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102) by Reiner Pope et al., arxiv 2022
 
 ### Applications
 
