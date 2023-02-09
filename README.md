@@ -67,6 +67,7 @@ A curated list of awesome projects and papers for distributed training or infere
 ### Memory Efficient Training
 
 - [Training deep nets with sublinear memory cost](https://arxiv.org/abs/1604.06174) by Tianqi Chen et al., arxiv 2016
+- [Superneurons: dynamic GPU memory management for training deep neural networks](https://dl.acm.org/doi/10.1145/3200691.3178491) by Linnan Wang et al., PPoPP 2018
 - [ZeRO: memory optimizations toward training trillion parameter models](https://dl.acm.org/doi/10.5555/3433701.3433727) by Samyam Rajbhandari et al., SC 2020
 - [Capuchin: Tensor-based GPU Memory Management for Deep Learning](https://dl.acm.org/doi/10.1145/3373376.3378505) by Xuan Peng et al., ASPLOS 2020
 - [SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping](https://dl.acm.org/doi/10.1145/3373376.3378530) by Chien-Chin Huang et al., ASPLOS 2020
