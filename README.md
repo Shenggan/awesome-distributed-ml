@@ -34,7 +34,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Alpa: Auto Parallelization for Large-Scale Neural Networks](https://github.com/alpa-projects/alpa)
 - [Easy Parallel Library: A General and Efficient Deep Learning Framework for Distributed Model Training](https://github.com/alibaba/EasyParallelLibrary)
 - [FairScale: PyTorch Extensions for High Performance and Large Scale Training](https://github.com/facebookresearch/fairscale)
-- [Pipeline Parallelism and SPMD for PyTorch](https://github.com/pytorch/tau)
+- [TePDist: an HLO-level automatic distributed system for DL models](https://github.com/alibaba/TePDist)
 
 ## Papers
 
