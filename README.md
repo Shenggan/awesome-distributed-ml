@@ -16,6 +16,7 @@ A curated list of awesome projects and papers for distributed training or infere
     - [Graph Neural Networks System](#graph-neural-networks-system)
     - [Hybrid Parallelism & Framework](#hybrid-parallelism--framework)
     - [Memory Efficient Training](#memory-efficient-training)
+    - [Tensor Movement](#tensor-movement)
     - [Auto Parallelization](#auto-parallelization)
     - [Communication Optimization](#communication-optimization)
     - [Inference and Serving](#inference-and-serving)
