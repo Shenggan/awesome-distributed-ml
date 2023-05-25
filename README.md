@@ -50,7 +50,8 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Memory-Efficient Pipeline-Parallel DNN Training](https://arxiv.org/abs/2006.09503v3) by Deepak Narayanan et al., ICML 2021
 - [DAPPLE: a pipelined data parallel approach for training large models](https://dl.acm.org/doi/10.1145/3437801.3441593) by Shiqing Fan et al. PPoPP 2021
 - [Chimera: efficiently training large-scale neural networks with bidirectional pipelines](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) by Shigang Li et al., SC 2021
-- [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al. PPoPP 23
+- [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al. PPoPP 2023
+- [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/abs/10.1145/3575693.3575703) by Yangyang Feng et al. ASPLOS 2023
 
 ### Mixture-of-Experts System
 
