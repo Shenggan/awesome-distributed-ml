@@ -62,6 +62,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Tutel: Adaptive Mixture-of-Experts at Scale](https://arxiv.org/abs/2206.03382) by Changho Hwang et al., arxiv 2022
 - [Accelerating Distributed MoE Training and Inference with Lina](https://arxiv.org/abs/2210.17223) by Jiamin Li et al., ATC 2023
 - [SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Static and Dynamic Parallelization](https://www.usenix.org/conference/atc23/presentation/zhai) by Mingshu Zhai et al., ATC 2023
+- [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://proceedings.mlsys.org/paper_files/paper/2023/hash/f9f4f0db4894f77240a95bde9df818e0-Abstract-mlsys2023.html) by Trevor Gale et al., MLSys 2023
 
 ### Graph Neural Networks System
 
