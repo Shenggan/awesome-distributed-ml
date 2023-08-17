@@ -125,6 +125,8 @@ A curated list of awesome projects and papers for distributed training or infere
 - [EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models](https://arxiv.org/abs/2209.02341) by Jiangsu Du et al., arxiv 2022
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102) by Reiner Pope et al., MLSys 2022
 - [Beta: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/abs/2302.11665) by Zhuohan Li et al., OSDI 2023
+- [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192) by Yaniv Leviathan et al., ICML 2023
+- [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) by Ying Sheng et al., ICML 2023
 
 ### Applications
 
