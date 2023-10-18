@@ -19,6 +19,7 @@ A curated list of awesome projects and papers for distributed training or infere
     - [Tensor Movement](#tensor-movement)
     - [Auto Parallelization](#auto-parallelization)
     - [Communication Optimization](#communication-optimization)
+    - [Fault-tolerant Training](#fault-tolerant-training)
     - [Inference and Serving](#inference-and-serving)
     - [Applications](#applications)
   - [Contribute](#contribute)
