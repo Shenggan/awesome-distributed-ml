@@ -119,6 +119,11 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/abs/10.1145/3567955.3567959) by Shibo Wang et al., ASPLOS 2023
 - [Logical/Physical Topology-Aware Collective Communication in Deep Learning Training](https://www.computer.org/csdl/proceedings-article/hpca/2023/10071117/1LMbHmoPq0M) Jo Sanghoon et al., HPCA 2023
 
+### Fault-tolerant Training
+- [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/abs/10.1145/3600006.3613152) by Insu Jang et al., SOSP 2023
+- [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs](https://www.usenix.org/conference/nsdi23/presentation/thorpe) by John Thorpe et al., NSDI 2023
+- [Varuna: scalable, low-cost training of massive deep learning models](https://dl.acm.org/doi/abs/10.1145/3492321.3519584) by Sanjith Athlur et al., EuroSys 2022
+
 ### Inference and Serving
 
 - [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://dl.acm.org/doi/abs/10.5555/3571885.3571946) by Reza Yazdani Aminabadi et al., SC 2022
