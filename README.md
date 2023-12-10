@@ -36,6 +36,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Easy Parallel Library: A General and Efficient Deep Learning Framework for Distributed Model Training](https://github.com/alibaba/EasyParallelLibrary)
 - [FairScale: PyTorch Extensions for High Performance and Large Scale Training](https://github.com/facebookresearch/fairscale)
 - [TePDist: an HLO-level automatic distributed system for DL models](https://github.com/alibaba/TePDist)
+- [EasyDist: Automated Parallelization System and Infrastructure](https://github.com/alibaba/easydist)
 
 ## Papers
 
@@ -53,6 +54,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Chimera: efficiently training large-scale neural networks with bidirectional pipelines](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) by Shigang Li et al., SC 2021
 - [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al. PPoPP 2023
 - [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/abs/10.1145/3575693.3575703) by Yangyang Feng et al. ASPLOS 2023
+- [Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency](https://dl.acm.org/doi/10.1145/3581784.3607073) by Ziming Liu et al. SC 2023
 
 ### Mixture-of-Experts System
 
