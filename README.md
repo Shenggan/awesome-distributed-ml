@@ -12,6 +12,7 @@ A curated list of awesome projects and papers for distributed training or infere
   - [Papers](#papers)
     - [Survey](#survey)
     - [Pipeline Parallelism](#pipeline-parallelism)
+    - [Sequence Parallelism](#sequence-parallelism)
     - [Mixture-of-Experts System](#mixture-of-experts-system)
     - [Graph Neural Networks System](#graph-neural-networks-system)
     - [Hybrid Parallelism & Framework](#hybrid-parallelism--framework)
@@ -55,6 +56,12 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al. PPoPP 2023
 - [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/abs/10.1145/3575693.3575703) by Yangyang Feng et al. ASPLOS 2023
 - [Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency](https://dl.acm.org/doi/10.1145/3581784.3607073) by Ziming Liu et al. SC 2023
+
+### Sequence Parallelism
+
+- [Long Sequence Training from System Perspective](https://aclanthology.org/2023.acl-long.134/) by Shenggui Li et al., ACL 2023
+- [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) by Sam Ade Jacobs et al., arxiv 2023
+- [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889) by Hao Liu et al., NeurIPS 2023 Workshop
 
 ### Mixture-of-Experts System
 
@@ -135,12 +142,14 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Beta: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/abs/2302.11665) by Zhuohan Li et al., OSDI 2023
 - [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192) by Yaniv Leviathan et al., ICML 2023
 - [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) by Ying Sheng et al., ICML 2023
+- [Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference](https://dl.acm.org/doi/abs/10.1145/3627535.3638466) by Jiangsu Du et al., PPoPP 2024
 
 ### Applications
 
 - [NASPipe: High Performance and Reproducible Pipeline Parallel Supernet Training via Causal Synchronous Parallelism](https://dl.acm.org/doi/abs/10.1145/3503222.3507735) by Shixiong Zhao et al., ASPLOS 2022
 - [AthenaRL: Distributed Reinforcement Learning with Dataflow Fragments](https://arxiv.org/abs/2210.00882) by Huanzhou Zhu et al., ATC 2023 
 - [Hydro: Surrogate-Based Hyperparameter Tuning Service in the Datacenter](https://www.usenix.org/conference/osdi23/presentation/hu-qinghao) by Qinghao Hu et al., OSDI 2023
+- [FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters](https://dl.acm.org/doi/10.1145/3627535.3638465) by Shenggan Cheng et al., PPoPP 2024
 
 ## Contribute
 
