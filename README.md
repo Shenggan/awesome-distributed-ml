@@ -38,6 +38,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [FairScale: PyTorch Extensions for High Performance and Large Scale Training](https://github.com/facebookresearch/fairscale)
 - [TePDist: an HLO-level automatic distributed system for DL models](https://github.com/alibaba/TePDist)
 - [EasyDist: Automated Parallelization System and Infrastructure](https://github.com/alibaba/easydist)
+- [Nerlnet: A framework for research and deployment of distributed machine learning algorithms on IoT devices](https://github.com/leondavi/NErlNet)
 
 ## Papers
 
