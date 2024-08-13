@@ -39,6 +39,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [TePDist: an HLO-level automatic distributed system for DL models](https://github.com/alibaba/TePDist)
 - [EasyDist: Automated Parallelization System and Infrastructure](https://github.com/alibaba/easydist)
 - [exo: Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚](https://github.com/exo-explore/exo)
+- [Nerlnet: A framework for research and deployment of distributed machine learning algorithms on IoT devices](https://github.com/leondavi/NErlNet)
 
 ## Papers
 
