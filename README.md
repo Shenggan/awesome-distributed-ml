@@ -38,6 +38,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [FairScale: PyTorch Extensions for High Performance and Large Scale Training](https://github.com/facebookresearch/fairscale)
 - [TePDist: an HLO-level automatic distributed system for DL models](https://github.com/alibaba/TePDist)
 - [EasyDist: Automated Parallelization System and Infrastructure](https://github.com/alibaba/easydist)
+- [exo: Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚](https://github.com/exo-explore/exo)
 - [Nerlnet: A framework for research and deployment of distributed machine learning algorithms on IoT devices](https://github.com/leondavi/NErlNet)
 
 ## Papers
@@ -63,6 +64,8 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Long Sequence Training from System Perspective](https://aclanthology.org/2023.acl-long.134/) by Shenggui Li et al., ACL 2023
 - [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509) by Sam Ade Jacobs et al., arxiv 2023
 - [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889) by Hao Liu et al., NeurIPS 2023 Workshop
+- [USP: A Unified Sequence Parallelism Approach for Long Context Generative AI](https://arxiv.org/abs/2405.07719v5) by Jiarui Fang et al., arxiv 2024
+- [LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism](https://arxiv.org/abs/2406.18485) by Diandian Gu et al., arxiv 2024
 
 ### Mixture-of-Experts System
 
@@ -128,7 +131,8 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Breaking the computation and communication abstraction barrier in distributed machine learning workloads](https://dl.acm.org/doi/10.1145/3503222.3507778) by Abhinav Jangda et al., ASPLOS 2022
 - [MSCCLang: Microsoft Collective Communication Language](https://dl.acm.org/doi/abs/10.1145/3575693.3575724) by Meghan Cowan et al., ASPLOS 2023
 - [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/abs/10.1145/3567955.3567959) by Shibo Wang et al., ASPLOS 2023
-- [Logical/Physical Topology-Aware Collective Communication in Deep Learning Training](https://www.computer.org/csdl/proceedings-article/hpca/2023/10071117/1LMbHmoPq0M) Jo Sanghoon et al., HPCA 2023
+- [Logical/Physical Topology-Aware Collective Communication in Deep Learning Training](https://www.computer.org/csdl/proceedings-article/hpca/2023/10071117/1LMbHmoPq0M) by Jo Sanghoon et al., HPCA 2023
+- [Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning](https://dl.acm.org/doi/10.1145/3620666.3651379) by Chang Chen et al., ASPLOS 2024
 
 ### Fault-tolerant Training
 - [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://dl.acm.org/doi/abs/10.1145/3600006.3613152) by Insu Jang et al., SOSP 2023
@@ -144,6 +148,8 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Fast inference from transformers via speculative decoding](https://arxiv.org/abs/2211.17192) by Yaniv Leviathan et al., ICML 2023
 - [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) by Ying Sheng et al., ICML 2023
 - [Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference](https://dl.acm.org/doi/abs/10.1145/3627535.3638466) by Jiangsu Du et al., PPoPP 2024
+- [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) by Ruoyu Qin et al., arxiv 2024
+- [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) by Amey Agrawal et al., OSDI 2024
 
 ### Applications
 
