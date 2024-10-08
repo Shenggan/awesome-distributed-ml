@@ -40,6 +40,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [EasyDist: Automated Parallelization System and Infrastructure](https://github.com/alibaba/easydist)
 - [exo: Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚](https://github.com/exo-explore/exo)
 - [Nerlnet: A framework for research and deployment of distributed machine learning algorithms on IoT devices](https://github.com/leondavi/NErlNet)
+- [veScale: A PyTorch Native LLM Training Framework](https://github.com/volcengine/veScale)
 
 ## Papers
 
@@ -53,11 +54,12 @@ A curated list of awesome projects and papers for distributed training or infere
 - [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf) by Yanping Huang et al., NeurIPS 2019
 - [PipeDream: generalized pipeline parallelism for DNN training](https://dl.acm.org/doi/10.1145/3341301.3359646) by Deepak Narayanan et al., SOSP 2019
 - [Memory-Efficient Pipeline-Parallel DNN Training](https://arxiv.org/abs/2006.09503v3) by Deepak Narayanan et al., ICML 2021
-- [DAPPLE: a pipelined data parallel approach for training large models](https://dl.acm.org/doi/10.1145/3437801.3441593) by Shiqing Fan et al. PPoPP 2021
+- [DAPPLE: a pipelined data parallel approach for training large models](https://dl.acm.org/doi/10.1145/3437801.3441593) by Shiqing Fan et al., PPoPP 2021
 - [Chimera: efficiently training large-scale neural networks with bidirectional pipelines](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) by Shigang Li et al., SC 2021
-- [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al. PPoPP 2023
-- [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/abs/10.1145/3575693.3575703) by Yangyang Feng et al. ASPLOS 2023
-- [Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency](https://dl.acm.org/doi/10.1145/3581784.3607073) by Ziming Liu et al. SC 2023
+- [Elastic Averaging for Efficient Pipelined DNN Training](https://dl.acm.org/doi/abs/10.1145/3572848.3577484) by Zihao Chen et al., PPoPP 2023
+- [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/abs/10.1145/3575693.3575703) by Yangyang Feng et al., ASPLOS 2023
+- [Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency](https://dl.acm.org/doi/10.1145/3581784.3607073) by Ziming Liu et al., SC 2023
+- [Zero Bubble Pipeline Parallelism](https://arxiv.org/abs/2401.10241) by Penghui Qi et al., ICLR 2024
 
 ### Sequence Parallelism
 
@@ -123,6 +125,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization](https://www.usenix.org/conference/osdi22/presentation/unger) by Colin Unger, Zhihao Jia, et al., OSDI 2022
 - [Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://arxiv.org/abs/2211.13878) by Xupeng Miao, et al., VLDB 2023
 - [Auto-Parallelizing Large Models with Rhino: A Systematic Approach on Production AI Platform](https://arxiv.org/abs/2302.08141) by Shiwei Zhang, Lansong Diao, et al., arxiv 2023
+- [nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training](https://www.usenix.org/conference/osdi24/presentation/lin-zhiqi) by Zhiqi Lin, et al., OSDI 2024
 
 ### Communication Optimization
 
@@ -157,6 +160,7 @@ A curated list of awesome projects and papers for distributed training or infere
 - [AthenaRL: Distributed Reinforcement Learning with Dataflow Fragments](https://arxiv.org/abs/2210.00882) by Huanzhou Zhu et al., ATC 2023 
 - [Hydro: Surrogate-Based Hyperparameter Tuning Service in the Datacenter](https://www.usenix.org/conference/osdi23/presentation/hu-qinghao) by Qinghao Hu et al., OSDI 2023
 - [FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters](https://dl.acm.org/doi/10.1145/3627535.3638465) by Shenggan Cheng et al., PPoPP 2024
+- [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/abs/2409.19256) by Guangming Sheng et al., EuroSys 2025
 
 ## Contribute
 
