@@ -163,5 +163,6 @@ A curated list of awesome projects and papers for distributed training or infere
 - [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/abs/2409.19256) by Guangming Sheng et al., EuroSys 2025
 
 ## Contribute
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - The first merge library where every operation is mathematically guaranteed to converge. Conflict-free merge for DataFrames, JSON, ML model weights & distributed agent state — powered by CRDTs.
 
 All contributions to this repository are welcome. Open an [issue](https://github.com/shenggan/awesome-distributed-ml/issues) or send a [pull request](https://github.com/shenggan/awesome-distributed-ml/pulls).
