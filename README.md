@@ -96,6 +96,8 @@ A curated list of awesome projects and papers for distributed training or infere
 
 ### Memory Efficient Training
 
+- **[OneComp](https://arxiv.org/abs/2603.28845)** — A post-training compression framework for LLMs that reduces memory footprint via mixed-precision quantization, enabling serving of large models on fewer GPUs. [[Code](https://github.com/FujitsuResearch/OneCompression)]
+
 - [Training deep nets with sublinear memory cost](https://arxiv.org/abs/1604.06174) by Tianqi Chen et al., arxiv 2016
 - [ZeRO: memory optimizations toward training trillion parameter models](https://dl.acm.org/doi/10.5555/3433701.3433727) by Samyam Rajbhandari et al., SC 2020
 - [Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization](https://proceedings.mlsys.org/paper/2020/hash/084b6fbb10729ed4da8c3d3f5a3ae7c9-Abstract.html) by Paras Jain et al., MLSys 2020
